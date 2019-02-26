@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="TI_AED_LABAED_SO_Forms.Scheduler">
+    <Position X="10.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>gABgHAAAYAAgAAAAAAAAAAAAAAAAAQAAcAwAAAAAAAA=</HashCode>
+      <FileName>Scheduler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_AED_LABAED_SO_Forms.Processo">
+    <Position X="6" Y="3" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AIAKAgAAAAAABAQEgAAgAAAAEAAAAAAAAAAAQAAAAEA=</HashCode>
+      <FileName>Processo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_AED_LABAED_SO_Forms.Program" Collapsed="true">
+    <Position X="15.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_AED_LABAED_SO_Forms.ListaPrioridade">
+    <Position X="4.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ListaPrioridade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_AED_LABAED_SO_Forms.ListaExecucao">
+    <Position X="0.5" Y="5.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ListaExecucao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_AED_LABAED_SO_Forms.FormScheduler">
+    <Position X="13.5" Y="4.25" Width="4.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAABAgCEEAAAgAACADAD+A7KDMQJgMADAYKAAGAA=</HashCode>
+      <FileName>FormScheduler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MetroFramework.Forms.MetroForm" Collapsed="true">
+    <Position X="15.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ListLibrary.Data">
+    <Position X="7" Y="0.5" Width="2" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ListLibrary.List">
+    <Position X="2.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TI_AED_LABAED_SO_Forms.DataBase">
+    <Position X="14.75" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

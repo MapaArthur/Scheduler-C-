@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="ListLibrary.Element">
+    <Position X="9.25" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAgQAgAIAAAAAAAAAABAAAAAQAAIAAAA=</HashCode>
+      <FileName>Element.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="ListLibrary.List">
+    <Position X="6" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAQAEBAMwBIQQAgAIAAAAAAACAABAQgA=</HashCode>
+      <FileName>List.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.177" />
+  </Class>
+  <Class Name="ListLibrary.Data">
+    <Position X="9.5" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQEgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="ListLibrary.IStructure">
+    <Position X="3" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAEAAIwBIAQAgAIAAAAAAAAAABAQAA=</HashCode>
+      <FileName>IStructure.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
